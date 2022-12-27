@@ -1,7 +1,13 @@
 # Template
 一个软件的发行模版，包括官网主页。
 
+[![License](https://img.shields.io/github/license/ZiChenStudio/software-template.svg)](https://github.com/ZiChenStudio/software-template/blob/master/LICENSE)
+[![Issues](https://img.shields.io/github/issues/ZiChenStudio/software-template)](https://github.com/ZiChenStudio/software-template/issues)
+[![Release](https://img.shields.io/github/release/ZiChenStudio/software-template.svg)](https://github.com/ZiChenStudio/software-template/releases)
+[![Stars](https://img.shields.io/github/stars/ZiChenStudio/software-template)](https://github.com/ZiChenStudio/software-template)
+
 ---
+
 ## 目录
 │&nbsp;&nbsp;&nbsp;404.html<br>
 │&nbsp;&nbsp;&nbsp;index.html<br>
