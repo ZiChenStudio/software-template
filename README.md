@@ -1,4 +1,4 @@
-# template
+# Template
 一个软件的发行模版，包括官网主页。
 
 ---
