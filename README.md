@@ -68,7 +68,7 @@
 ### 使用模版
 请Fork此储存库。
 ### 反馈&建议
-访问[issue](https://github.com/ZiChenStudio/template/issues)
+访问[issue](https://github.com/ZiChenStudio/software-template/issues)
 ## 链接
 release tamplate(正在开发)
 
