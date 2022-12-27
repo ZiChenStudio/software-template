@@ -6,6 +6,8 @@
 [![Release](https://img.shields.io/github/release/ZiChenStudio/software-template.svg)](https://github.com/ZiChenStudio/software-template/releases)
 [![Stars](https://img.shields.io/github/stars/ZiChenStudio/software-template)](https://github.com/ZiChenStudio/software-template)
 
+$\uparrow$ 没有任何一个Star &#x1F62D;&#x1F62D;
+
 ---
 
 ## 目录
