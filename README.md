@@ -1,5 +1,5 @@
 # Template
-一个软件的发行模版，包括官网主页。
+一个开源软件的发行模版，包括官网主页。
 
 [![Author](https://img.shields.io/badge/Author-ZiChenStudio-66ccff.svg?style=flat-square)](https://github.com/ZiChenStudio)
 [![License](https://img.shields.io/github/license/ZiChenStudio/software-template.svg?style=flat-square)](https://github.com/ZiChenStudio/software-template/blob/master/LICENSE)
@@ -76,6 +76,15 @@ $\uparrow$ 没有任何一个Star &#x1F62D;&#x1F62D;
 是软件的自述文件。
 ### 使用模版
 请Fork此储存库。
+### 注意事项
+如果你使用了此模版，请在您的项目中附上此储存库的链接例如
+
+简体中文：
+> 模版来源：https://github.com/ZiChenStudio/software-template
+
+English:
+> The template from : https://github.com/ZiChenStudio/software-template
+
 ### 反馈&建议
 访问[issue](https://github.com/ZiChenStudio/software-template/issues)
 ## 链接
