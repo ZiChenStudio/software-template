@@ -2,7 +2,6 @@
 一个开源软件的发行模版，包括官网主页。
 
 [![Author](https://img.shields.io/badge/Author-ZiChenStudio-66ccff.svg?style=flat-square)](https://github.com/ZiChenStudio)
-[![License](https://img.shields.io/github/license/ZiChenStudio/software-template.svg?style=flat-square)](https://github.com/ZiChenStudio/software-template/blob/master/LICENSE)
 [![Issues](https://img.shields.io/github/issues/ZiChenStudio/software-template?style=flat-square)](https://github.com/ZiChenStudio/software-template/issues)
 [![Release](https://img.shields.io/github/release/ZiChenStudio/software-template.svg?style=flat-square)](https://github.com/ZiChenStudio/software-template/releases)
 [![Stars](https://img.shields.io/github/stars/ZiChenStudio/software-template?style=flat-square)](https://github.com/ZiChenStudio/software-template)
@@ -77,7 +76,7 @@ $\uparrow$ 没有任何一个Star &#x1F62D;&#x1F62D;
 ### 使用模版
 请Fork此储存库。
 ### 注意事项
-如果你使用了此模版，请在您的项目中附上此储存库的链接例如
+如果你使用了此模版，请在您的项目中附上此储存库的链接例如，这是自愿的，我们不强求。
 
 简体中文：
 > 模版来源：https://github.com/ZiChenStudio/software-template
