@@ -3,7 +3,7 @@
 
 [![Author](https://img.shields.io/badge/Author-ZiChenStudio-66ccff.svg?style=flat-square)](https://github.com/ZiChenStudio)
 [![Issues](https://img.shields.io/github/issues/ZiChenStudio/software-template?style=flat-square)](https://github.com/ZiChenStudio/software-template/issues)
-[![Release](https://img.shields.io/github/release/ZiChenStudio/software-template.svg?style=flat-square)](https://github.com/ZiChenStudio/software-template/releases)
+[![Fork](https://img.shields.io/github/forks/ZiChenStudio/software-template?style=flat-square)](https://github.com/ZiChenStudio/software-template)
 [![Stars](https://img.shields.io/github/stars/ZiChenStudio/software-template?style=flat-square)](https://github.com/ZiChenStudio/software-template)
 
 $\uparrow$ 没有任何一个Star &#x1F62D;&#x1F62D;
